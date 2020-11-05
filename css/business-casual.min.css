@@ -173,6 +173,10 @@
             transform: translateY(20px);
             transition: all 1.3s 0s ease-out;
           }
+
+         .contactsub {
+            color: white;
+        }
             
     @media (min-width:992px){
         .intro .intro-img{
